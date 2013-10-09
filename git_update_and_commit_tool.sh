@@ -1,7 +1,6 @@
-
 project=yavorsky_yuriy_personal_information
 
-remote_url="https://Santific:passname1@github.com/Santific/$project.git"
+remote_url="https://Santific:$1@github.com/Santific/$project.git"
 
 COMMON_SHELL_SCRIPTS_DIR=$(dirname $0)/COMMON_SHELL_SCRIPTS_DIR
 
