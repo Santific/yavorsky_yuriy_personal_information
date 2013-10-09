@@ -1,31 +1,6 @@
-PC Games:
-
-Дарья Загадочное путешествие - http://online.turbogames.ru/online_game.php?game_id=62 - здесь багфикс
-Дарья Загадки куршавеля - http://www.dailymotion.com/video/xc45xx_turbogames-%D0%B4%D0%B0%D1%80%D1%8C%D1%8F-%D0%B7%D0%B0%D0%B3%D0%B0%D0%B4%D0%BA%D0%B8-%D0%BA%D1%83%D1%80%D1%88%D0%B5%D0%B2e%D0%BB%D1%8F_videogames - это делал
-Дарья Тайны карбиского моря - http://turbogames.ru/shop_game.php?game_id=6974 - это делал
-
-J2ME Games:
-
-Портирование игры - Sea Wolves http://play.qplaze.com/en/games/game-1563/index.html
-World Fighting 2: Heroes - http://play.qplaze.com/en/games/game-1665/index.html
-Crystal of life - http://www.gamespot.com/crystal-of-life/
-Также создал игру Abbat (качество игры по лутше чем Crystal of life стиль похожый(тоже бродилка), но к сожалению игра не выпущенна, исходники утерянны :))) )
-Портирование игры SonicJump - http://www.youtube.com/watch?v=D_R1XfrE460
-
-Рарабатывал тайловый редактор уровней с построением уровней и размещением монстров. На java-swing.
-
 Android:
 
 	В папке Android находятся скрины/apk из приложений!
-
-	"Ты репортер" - https://play.google.com/store/apps/details?id=ru.rian.yourep&hl=ru
-	Alert Me - Android приложение для вот этого сайта(оч похоже на контент сайта) для слежки за домом (расход тепла, света и так далее)
-		скрины IOS аналогичные android скринам:
-			https://www.alertme.com/how-we-do-it/products-and-services/smart-heating/
-			https://www.alertme.com/how-we-do-it/products-and-services/smart-energy/
-			https://www.alertme.com/what-we-do/our-vision/
-			К сожалению где само приложение скачать не знаю) у меня тестовый акааунт больше не пашет)
-		Скрин с тех исходников которые щас запускаю прилагается ( Android/Alert_me/alert_me.png )
 
 	Приложение для курьерской доставки:
 		Организация континиус интегрейшен(Jenknins), сервер(java сервер) полностью под контролем дженкинса, сборка андроид версий клиентов и сервера полностью в пару кликов. Исходники в SVN.
